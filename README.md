@@ -1,197 +1,184 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<h1>👋 Hello, I'm Janhavi Landge</h1>
-</div>
 
-Senior Data Science AI | ML/DL & Advanced AI Specialist
-Highly motivated and results-driven individual focused on leveraging Machine Learning, Deep Learning, and Advanced AI to solve complex business problems. Proven ability to move projects from data cleaning to production-ready models and interactive dashboards.
-
-🌐 Connect with Me
-Platform
-
-Link
-
-LinkedIn
-
-Connect on LinkedIn
-
-GitHub
-
-View My Repositories
-
-Email
-
-janhavilandge2@gmail.com
-
-🛠️ My Expert Tech Stack
-Category
-
-Key Technologies
-
-Programming
-
-Python (Advanced), SQL, HTML, CSS, JavaScript (Foundational)
-
-ML & DL Frameworks
-
-Scikit-learn, TensorFlow/Keras, Hugging Face
-
-Advanced AI
-
-Natural Language Processing (NLP), Computer Vision (OpenCV), Generative AI (GenAI)
-
-Data & BI Tools
-
-Pandas, NumPy, MySQL, PowerBI, Matplotlib, Seaborn, Streamlit
-
-MLOps/DevOps
-
-CICD/Testing (Automated Pipelines), Git/GitHub
+Hi there, I'm Janhavi Landge 👋
+ Data Scientist | AIML | Data Analyst | 
+Bringing data to life and turning complex problems into clear, actionable insights.
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hugging%2520Face-FFD21C%3Fstyle%3Dfor-the-badge%26logo%3Dhuggingface%26logoColor%3Dblack" alt="Hugging Face Badge" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Power%2520BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack" alt="PowerBI Badge" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
+<a href="https://topmate.io/tajamulkhan">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Mentor-TopMate-8A2BE2%3Fstyle%3Dfor-the-badge%26logo%3Dcodeforces%26logoColor%3Dwhite" alt="TopMate Badge" />
+</a>
+<a href="https://www.linkedin.com/in/tajamulkhann" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Profile-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge" />
+</a>
+<a href="https://substack.com/@tajamulkhan" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Newsletter-Substack-FF6719%3Fstyle%3Dfor-the-badge%26logo%3Dsubstack%26logoColor%3Dwhite" alt="Substack Badge" />
+</a>
+<a href="https://www.google.com/search?q=https://www.kaggle.com/tajamul.datascientist" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-Notebooks-20BEFF%3Fstyle%3Dfor-the-badge%26logo%3Dkaggle%26logoColor%3Dwhite" alt="Kaggle Badge" />
+</a>
 </p>
 
-💡 Comprehensive Portfolio Projects by Domain
-1. Machine Learning & Deep Learning (ML/DL)
-Project Repository
+🔥 GitHub Stats & Activity
+<!-- Replace 'tajamulkhann' with your actual GitHub username in all links below -->
 
-Impact & Focus
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtajamulkhann%26show_icons%3Dtrue%26theme%3Dalgolia%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Tajamul Khan GitHub Stats" width="400"/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dtajamulkhann%26theme%3Dalgolia%26hide_border%3Dtrue" alt="GitHub Streak" width="400"/>
+</p>
 
-Status
+🔬 My Data Science Portfolio Projects
+Here are some of my key data-driven projects, categorized by focus area.
+
+Category
+
+Project Name
+
+Description
+
+Key Skills
+
+Repo Link
+
+Generative AI
+
+Agentic-AI-Projects
+
+Implementing autonomous AI agents for complex task resolution using frameworks like LangChain/CrewAI.
+
+LLMs, LangChain, RAG, Python
+
+View Repo
+
+Generative AI
+
+Generative-AI-Projects
+
+End-to-end projects covering text, image, and code generation, focusing on fine-tuning and deployment.
+
+TensorFlow, PyTorch, Transformers, Jupyter
+
+View Repo
+
+NLP
+
+NLP-Projects
+
+Deep dives into sentiment analysis, topic modeling, text summarization, and building custom NER models.
+
+spaCy, NLTK, Hugging Face, BERT
+
+View Repo
+
+Time Series
+
+Time-Series-Analysis
+
+Forecasting and anomaly detection using ARIMA, Prophet, and advanced deep learning techniques (LSTMs).
+
+ARIMA, Prophet, Keras, Pandas
+
+View Repo
+
+Machine Learning
 
 Deep-Learning-Projects
 
-Implementation of complex neural network architectures for classification and advanced prediction tasks.
+Applying neural networks to image classification, object detection, and sequence modeling tasks.
 
-View Code
+CNN, RNN, Transfer Learning, Keras
 
-Machine-Learning-Project
+View Repo
 
-End-to-end ML solution covering data preprocessing, rigorous model selection, and performance evaluation.
+Machine Learning
 
-View Code
+ML-Algorithms-from-Scratch
 
-Iris-Flower-Classification
+Implementing core ML algorithms (Linear Regression, k-NN, Decision Trees) using only NumPy for deeper understanding.
 
-Engineered a classification model with 97% precision, demonstrating mastery of foundational ML pipelines.
+NumPy, Python, Algorithm Theory
 
-View Code
+View Repo
 
-2. Advanced AI: NLP, GenAI, & Vision
-Project Repository
+Exploratory Data Analysis (EDA)
 
-Impact & Focus
+Exploratory-Data-Analysis-Projects
 
-Status
+Focused repositories demonstrating data cleaning, visualization, and hypothesis testing on diverse datasets.
 
-Natural-Language-Processing
+Pandas, Matplotlib, Seaborn, Tableau
 
-Projects covering text cleaning, feature engineering, and model creation for tasks like sentiment analysis and text summarization.
+View Repo
 
-View Code
+Statistical Analysis
 
-HUGGINGFACE
+Statistical-Analysis-Projects
 
-Demonstrates the ability to leverage the Hugging Face ecosystem (Transformers) for implementing state-of-the-art NLP models.
+Projects covering frequentist and Bayesian methods, hypothesis testing, and statistical modeling.
 
-View Code
+SciPy, Statsmodels, R, Hypothesis Testing
 
-Gen-AI-Robort-Visualization-Dashboard
+View Repo
 
-Integration of Generative AI with interactive Streamlit/Plotly dashboards for conversational AI and real-time data visualization.
+Data Visualization
 
-View Code
+Power-BI-Projects
 
-Computer Vision / OpenCV
+Creating interactive dashboards and reports for business intelligence and data storytelling.
 
-(Future Project) Focus on image processing, object detection, and video analysis using OpenCV to solve real-world vision challenges.
+Power BI, DAX, Data Modeling
 
-(Coming Soon)
+View Repo
 
-3. Data Analysis, Visualization & BI
-Project Repository
+Data Engineering
 
-Impact & Focus
+Data-Engineering-Projects
 
-Status
+Pipelines covering ETL, warehouse design, big data processing, and cloud deployment.
 
-Exploratory-Data-Analysis
+AWS, Docker, Spark, SQL, Airflow
 
-Advanced EDA emphasizing statistical inference, outlier detection, and the extraction of actionable business insights.
+View Repo
 
-View Code
+Coding Fundamentals
 
-Emp-Performance-Dashboard
+Python-For-All
 
-BI solution for tracking employee performance. Includes data aggregation, KPI calculation, and interactive visualization using PowerBI / Streamlit.
+Resources and exercises for mastering Python fundamentals, data structures, and object-oriented programming.
 
-View Code
+Python, OOP, Data Structures
 
-Data-Visualization-With-Matplotlib
+View Repo
 
-Dedicated projects showcasing the creation of custom, informative, and visually compelling static and interactive plots.
+🛠️ Languages and Tools
+Category
 
-View Code
+Tools/Languages
 
-Retail-Data-Analysis
+Programming Languages
 
-Comprehensive EDA identifying key sales patterns and customer segments, with insights structured to optimize inventory and boost revenue.
+Python R SQL Bash
 
-View Code
+Machine Learning
 
-PowerBI Project
+Scikit-learn TensorFlow PyTorch Keras Prophet
 
-(Future Project) Professional report creation and interactive visualization using Microsoft PowerBI.
+NLP/GenAI
 
-(Coming Soon)
+NLTK spaCy Hugging Face LangChain
 
-4. Data Engineering & MLOps
-Project Repository
+Data Analysis/Viz
 
-Impact & Focus
+Pandas NumPy Matplotlib Seaborn Tableau Power BI
 
-Status
+Cloud/Big Data
 
-CICD-Testing
+AWS Azure Spark Databricks Airflow Docker
 
-Repository demonstrating skills in Continuous Integration/Continuous Deployment (CICD), focusing on automated testing for reliable model deployment.
+Version Control
 
-View Code
+Git GitHub
 
-SQL-Project
+Profile views: 4293+
 
-Showcase of advanced SQL queries, data warehousing concepts, and optimizing database joins for efficient data retrieval.
-
-View Code
-
-Comparison-of-SQL-and-Python-Pandas-
-
-Comparative analysis of data manipulation efficiency between database systems and in-memory tools, focusing on performance.
-
-View Code
-
-Hospital-Management-System
-
-Designed and built a complete web-based system, demonstrating skills in system design and secure database integration.
-
-View Code
-
-✨ GitHub Statistics
-<div align="center">
-<!-- 👁️ Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=janhavilandge21&color=blue" alt="Profile Views" />
-
-<!-- 📈 GitHub Stats Card -->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=janhavilandge21&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Janhavi's GitHub Stats" />
-
-<!-- 📊 Top Languages Card -->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavilandge21&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
 </div>
