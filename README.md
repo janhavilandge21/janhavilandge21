@@ -1,82 +1,75 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>👋 Hello, I'm Janhavi Landge</h1>
+<img src="https://www.google.com/search?q=https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID%3Fv%3D4" width="150" height="150" style="border-radius: 50%;">
+<h1 align="center">Hi, I'm Janhavi Landge 👋</h1>
 </div>
 
----
+<div align="center">
+<h2 style="color:#10b981;">AI & Data Science Engineer | B.Tech Graduate</h2>
+</div>
 
-## **Data Scientist| ML/DL Specialist**
+🚀 Professional Snapshot
+I am a passionate and results-driven B.Tech graduate in Artificial Intelligence and Data Science, specializing in developing and deploying end-to-end Machine Learning solutions.
 
-> Highly motivated and results-driven individual focused on leveraging **Machine Learning, Deep Learning, and Advanced AI** to solve complex business problems. Proven ability to move projects from data cleaning to production-ready models and interactive dashboards.
+My focus areas include:
 
-### 🌐 Connect with Me
+Building predictive and generative models (Regression, Classification, LLMs).
 
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/janhavi-landge-7a1072276/) |
-| **GitHub** | [View My Repositories](https://github.com/janhavilandge21) |
-| **Email** | [janhavilandge2@gmail.com](mailto:janhavilandge2@gmail.com) |
+Implementing MLOps principles using CI/CD pipelines for robust deployment.
 
----
+Leveraging data to solve real-world problems and drive actionable business insights.
 
-## 🛠️ My Expert Tech Stack
+🛠️ Tech Stack & Tools
+Category
 
-| Category | Key Technologies |
-| :--- | :--- |
-| **Programming** | **Python** (Advanced), SQL, R (Foundational) |
-| **Machine Learning** | Scikit-learn, Classification, Regression, Time Series, MLOps |
-| **Deep Learning & AI** | **TensorFlow/Keras**, **Hugging Face**, **Natural Language Processing (NLP)**, **Computer Vision (OpenCV)**, Generative AI (GenAI) |
-| **Data & BI Tools** | Pandas, NumPy, MySQL, **PowerBI**, Matplotlib, Seaborn, **Streamlit** |
-| **MLOps/DevOps** | **CICD/Testing** (Automated Pipelines), Git/GitHub |
+Tools & Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21C?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Badge" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI Badge" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
-</p>
+Programming
 
----
+Python (Pandas, NumPy, Scikit-learn, XGBoost), SQL (PostgreSQL, MySQL)
 
-## 💡 Comprehensive Portfolio Projects by Domain
+AI/ML & DL
 
-### 1. Machine Learning & Deep Learning (ML/DL)
+Machine Learning, Deep Learning, Generative AI, LLMs (Hugging Face, LangChain, Ollama)
 
-| Project Repository | Impact Summary |
-| :--- | :--- |
-| **[Deep-Learning-Projects](https://github.com/janhavilandge21/Deep-Learning-Projects)** | A collection of projects using **TensorFlow/Keras** to build and train complex neural networks for classification and sequence prediction tasks. |
-| **[Machine-Learning-Project](https://github.com/janhavilandge21/Machine-Learning-Project)** | End-to-end ML solutions focused on data preprocessing, model selection, hyperparameter tuning, and rigorous performance evaluation. |
-| **[Iris-Flower-Classification](https://github.com/janhavilandge21/Iris-Flower-Classification)** | Engineered a highly accurate classification model (**97% precision**) demonstrating proficiency in foundational ML pipelines and model deployment readiness. |
+MLOps & Cloud
 
-### 2. Advanced AI: NLP, GenAI, & Vision
+CI/CD (GitHub Actions), Model Deployment, Containerization, Azure, Git
 
-| Project Repository | Impact Summary |
-| :--- | :--- |
-| **[Natural-Language-Processing](https://github.com/janhavilandge21/Natural-Language-Processing)** | Projects covering text cleaning, feature engineering, and model creation for tasks like sentiment analysis, topic modeling, and text summarization. |
-| **[HUGGINGFACE](https://github.com/janhavilandge21/HUGGINGFACE)** | Demonstrates the ability to leverage the Hugging Face ecosystem (Transformers) for implementing **state-of-the-art NLP** models and fine-tuning pre-trained language models. |
-| **[Gen-AI-Robort-Visualization-Dashboard](https://github.com/janhavilandge21/Gen-AI-Robort-Visualization-Dashboard)** | Integration of Generative AI models with interactive dashboards, focusing on real-time data visualization and conversational AI components. |
-| **Computer Vision / OpenCV** | *(Future Project)* Focus on image processing, object detection, and video analysis using **OpenCV** to solve real-world computer vision challenges. |
+Visualization
 
-### 3. Data Analysis & Business Intelligence (DA/BI)
+Power BI, Matplotlib, Seaborn, Streamlit, Gradio
 
-| Project Repository | Impact Summary |
-| :--- | :--- |
-| **[Exploratory-Data-Analysis](https://github.com/janhavilandge21/Exploratory-Data-Analysis)** | Advanced analysis projects emphasizing statistical inference, outlier detection, and the extraction of **actionable business insights** from complex datasets. |
-| **[Emp-Performance-Dashboard](https://github.com/janhavilandge21/Emp-Performance-Dashboard)** | End-to-end BI solution for tracking employee performance. Includes data aggregation, KPI calculation, and interactive visualization using **PowerBI / Streamlit**. |
-| **[Data-Visualization-With-Matplotlib](https://github.com/janhavilandge21/Data-Visualization-With-Matplotlib)** | Dedicated projects showcasing the creation of custom, informative, and visually compelling static and interactive plots. |
-| **[Retail-Data-Analysis](https://github.com/janhavilandge21/Retail-Data-Analysis)** | Comprehensive EDA identifying key sales patterns and customer segments, with insights structured to **optimize inventory and boost revenue.** |
+⭐ Featured Projects
+1. End-to-End ML Model Deployment with CI/CD
+Description: Designed and implemented a robust CI/CD pipeline using GitHub Actions to automate model training, testing, and deployment.
 
-### 4. Data Engineering & MLOps
+Key Skill: MLOps, Automated Delivery
 
-| Project Repository | Impact Summary |
-| :--- | :--- |
-| **[CICD-Testing](https://github.com/janhavilandge21/CICD-Testing)** | Repository demonstrating skills in **Continuous Integration/Continuous Deployment (CICD)**, focusing on automated testing and MLOps best practices for reliable model deployment. |
-| **[SQL-Project](https://github.com/janhavilandge21/SQL-Project)** | Showcase of advanced SQL queries, data warehousing concepts, and optimizing database joins for efficient, large-scale data retrieval. |
-| **[Comparison-of-SQL-and-Python-Pandas-](https://github.com/janhavilandge21/Comparison-of-SQL-and-Python-Pandas-)** | Comparative analysis of data manipulation efficiency between database systems (SQL) and in-memory tools (Pandas), focusing on performance optimization. |
+[GitHub Repository Link]
 
----
+2. Retail Price Prediction System
+Description: Developed a high-performance XGBoost regression model to accurately forecast product sales prices.
 
+Key Skill: Regression Modeling, Feature Engineering, EDA
+
+[GitHub Repository Link]
+
+3. Customer Churn Forecasting System
+Description: Engineered a classification model (XGBoost, Random Forest) to predict customer churn and identify key retention indicators.
+
+Key Skill: Classification, Predictive Analytics
+
+[GitHub Repository Link]
+
+🔗 Connect with Me
+<div align="center">
+<!-- IMPORTANT: Replace the '#' with your actual profile links -->
+<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
+<a href="https://www.google.com/search?q=https://kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-20BEFF%3Fstyle%3Dfor-the-badge%26logo%3Dkaggle%26logoColor%3Dwhite" alt="Kaggle"></a>
+<a href="mailto:janhavilandge2@gmail.com" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a>
+
+<!-- Customize your metrics below -->
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Djanhavilandge21%26show_icons%3Dtrue%26theme%3Dbuefy%26count_private%3Dtrue" alt="GitHub Stats">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Djanhavilandge21%26theme%3Dhighcontrast" alt="GitHub Streak">
+</div>
