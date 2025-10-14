@@ -5,7 +5,7 @@
 
 ---
 
-## **Senior Data Science Aspirant | ML/DL & Advanced AI Specialist**
+## **AI & Data Science Engineer**
 
 > Highly motivated and results-driven individual focused on leveraging **Machine Learning, Deep Learning, and Advanced AI** to solve complex business problems. Proven ability to move projects from data cleaning to production-ready models and interactive dashboards.
 
