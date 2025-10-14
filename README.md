@@ -5,7 +5,7 @@
 
 ---
 
-## ** Data Scientist| ML/DL Specialist **
+## **Data Scientist| ML/DL Specialist**
 
 > Highly motivated and results-driven individual focused on leveraging **Machine Learning, Deep Learning, and Advanced AI** to solve complex business problems. Proven ability to move projects from data cleaning to production-ready models and interactive dashboards.
 
