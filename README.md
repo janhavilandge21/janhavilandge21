@@ -1,184 +1,93 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>👋 Hello, I'm Janhavi Landge</h1>
+</div>
 
-Hi there, I'm Janhavi Landge 👋
- Data Scientist | AIML | Data Analyst | 
-Bringing data to life and turning complex problems into clear, actionable insights.
+---
+
+## **Senior Data Science Aspirant | ML/DL & Advanced AI Specialist**
+
+> Highly motivated and results-driven individual focused on leveraging **Machine Learning, Deep Learning, and Advanced AI** to solve complex business problems. Proven ability to move projects from data cleaning to production-ready models and interactive dashboards.
+
+### 🌐 Connect with Me
+
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/janhavi-landge-7a1072276/) |
+| **GitHub** | [View My Repositories](https://github.com/janhavilandge21) |
+| **Email** | [janhavilandge2@gmail.com](mailto:janhavilandge2@gmail.com) |
+
+---
+
+## 🛠️ My Expert Tech Stack
+
+| Category | Key Technologies |
+| :--- | :--- |
+| **Programming** | **Python** (Advanced), SQL, R (Foundational) |
+| **Machine Learning** | Scikit-learn, Classification, Regression, Time Series, MLOps |
+| **Deep Learning & AI** | **TensorFlow/Keras**, **Hugging Face**, **Natural Language Processing (NLP)**, **Computer Vision (OpenCV)**, Generative AI (GenAI) |
+| **Data & BI Tools** | Pandas, NumPy, MySQL, **PowerBI**, Matplotlib, Seaborn, **Streamlit** |
+| **MLOps/DevOps** | **CICD/Testing** (Automated Pipelines), Git/GitHub |
 
 <p align="center">
-<a href="https://topmate.io/tajamulkhan">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Mentor-TopMate-8A2BE2%3Fstyle%3Dfor-the-badge%26logo%3Dcodeforces%26logoColor%3Dwhite" alt="TopMate Badge" />
-</a>
-<a href="https://www.linkedin.com/in/tajamulkhann" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Profile-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge" />
-</a>
-<a href="https://substack.com/@tajamulkhan" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Newsletter-Substack-FF6719%3Fstyle%3Dfor-the-badge%26logo%3Dsubstack%26logoColor%3Dwhite" alt="Substack Badge" />
-</a>
-<a href="https://www.google.com/search?q=https://www.kaggle.com/tajamul.datascientist" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-Notebooks-20BEFF%3Fstyle%3Dfor-the-badge%26logo%3Dkaggle%26logoColor%3Dwhite" alt="Kaggle Badge" />
-</a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21C?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI Badge" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
 </p>
 
-🔥 GitHub Stats & Activity
-<!-- Replace 'tajamulkhann' with your actual GitHub username in all links below -->
+---
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtajamulkhann%26show_icons%3Dtrue%26theme%3Dalgolia%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Tajamul Khan GitHub Stats" width="400"/>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dtajamulkhann%26theme%3Dalgolia%26hide_border%3Dtrue" alt="GitHub Streak" width="400"/>
-</p>
+## 💡 Comprehensive Portfolio Projects by Domain
 
-🔬 My Data Science Portfolio Projects
-Here are some of my key data-driven projects, categorized by focus area.
+### 1. Machine Learning & Deep Learning (ML/DL)
 
-Category
+| Project Repository | Impact Summary |
+| :--- | :--- |
+| **[Deep-Learning-Projects](https://github.com/janhavilandge21/Deep-Learning-Projects)** | A collection of projects using **TensorFlow/Keras** to build and train complex neural networks for classification and sequence prediction tasks. |
+| **[Machine-Learning-Project](https://github.com/janhavilandge21/Machine-Learning-Project)** | End-to-end ML solutions focused on data preprocessing, model selection, hyperparameter tuning, and rigorous performance evaluation. |
+| **[Iris-Flower-Classification](https://github.com/janhavilandge21/Iris-Flower-Classification)** | Engineered a highly accurate classification model (**97% precision**) demonstrating proficiency in foundational ML pipelines and model deployment readiness. |
 
-Project Name
+### 2. Advanced AI: NLP, GenAI, & Vision
 
-Description
+| Project Repository | Impact Summary |
+| :--- | :--- |
+| **[Natural-Language-Processing](https://github.com/janhavilandge21/Natural-Language-Processing)** | Projects covering text cleaning, feature engineering, and model creation for tasks like sentiment analysis, topic modeling, and text summarization. |
+| **[HUGGINGFACE](https://github.com/janhavilandge21/HUGGINGFACE)** | Demonstrates the ability to leverage the Hugging Face ecosystem (Transformers) for implementing **state-of-the-art NLP** models and fine-tuning pre-trained language models. |
+| **[Gen-AI-Robort-Visualization-Dashboard](https://github.com/janhavilandge21/Gen-AI-Robort-Visualization-Dashboard)** | Integration of Generative AI models with interactive dashboards, focusing on real-time data visualization and conversational AI components. |
+| **Computer Vision / OpenCV** | *(Future Project)* Focus on image processing, object detection, and video analysis using **OpenCV** to solve real-world computer vision challenges. |
 
-Key Skills
+### 3. Data Analysis & Business Intelligence (DA/BI)
 
-Repo Link
+| Project Repository | Impact Summary |
+| :--- | :--- |
+| **[Exploratory-Data-Analysis](https://github.com/janhavilandge21/Exploratory-Data-Analysis)** | Advanced analysis projects emphasizing statistical inference, outlier detection, and the extraction of **actionable business insights** from complex datasets. |
+| **[Emp-Performance-Dashboard](https://github.com/janhavilandge21/Emp-Performance-Dashboard)** | End-to-end BI solution for tracking employee performance. Includes data aggregation, KPI calculation, and interactive visualization using **PowerBI / Streamlit**. |
+| **[Data-Visualization-With-Matplotlib](https://github.com/janhavilandge21/Data-Visualization-With-Matplotlib)** | Dedicated projects showcasing the creation of custom, informative, and visually compelling static and interactive plots. |
+| **[Retail-Data-Analysis](https://github.com/janhavilandge21/Retail-Data-Analysis)** | Comprehensive EDA identifying key sales patterns and customer segments, with insights structured to **optimize inventory and boost revenue.** |
 
-Generative AI
+### 4. Data Engineering & MLOps
 
-Agentic-AI-Projects
+| Project Repository | Impact Summary |
+| :--- | :--- |
+| **[CICD-Testing](https://github.com/janhavilandge21/CICD-Testing)** | Repository demonstrating skills in **Continuous Integration/Continuous Deployment (CICD)**, focusing on automated testing and MLOps best practices for reliable model deployment. |
+| **[SQL-Project](https://github.com/janhavilandge21/SQL-Project)** | Showcase of advanced SQL queries, data warehousing concepts, and optimizing database joins for efficient, large-scale data retrieval. |
+| **[Comparison-of-SQL-and-Python-Pandas-](https://github.com/janhavilandge21/Comparison-of-SQL-and-Python-Pandas-)** | Comparative analysis of data manipulation efficiency between database systems (SQL) and in-memory tools (Pandas), focusing on performance optimization. |
 
-Implementing autonomous AI agents for complex task resolution using frameworks like LangChain/CrewAI.
+---
 
-LLMs, LangChain, RAG, Python
+## ✨ GitHub Statistics
 
-View Repo
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=janhavilandge21&color=blue" alt="Profile Views" />
+  
+  <br/>
 
-Generative AI
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=janhavilandge21&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Janhavi's GitHub Stats" />
 
-Generative-AI-Projects
-
-End-to-end projects covering text, image, and code generation, focusing on fine-tuning and deployment.
-
-TensorFlow, PyTorch, Transformers, Jupyter
-
-View Repo
-
-NLP
-
-NLP-Projects
-
-Deep dives into sentiment analysis, topic modeling, text summarization, and building custom NER models.
-
-spaCy, NLTK, Hugging Face, BERT
-
-View Repo
-
-Time Series
-
-Time-Series-Analysis
-
-Forecasting and anomaly detection using ARIMA, Prophet, and advanced deep learning techniques (LSTMs).
-
-ARIMA, Prophet, Keras, Pandas
-
-View Repo
-
-Machine Learning
-
-Deep-Learning-Projects
-
-Applying neural networks to image classification, object detection, and sequence modeling tasks.
-
-CNN, RNN, Transfer Learning, Keras
-
-View Repo
-
-Machine Learning
-
-ML-Algorithms-from-Scratch
-
-Implementing core ML algorithms (Linear Regression, k-NN, Decision Trees) using only NumPy for deeper understanding.
-
-NumPy, Python, Algorithm Theory
-
-View Repo
-
-Exploratory Data Analysis (EDA)
-
-Exploratory-Data-Analysis-Projects
-
-Focused repositories demonstrating data cleaning, visualization, and hypothesis testing on diverse datasets.
-
-Pandas, Matplotlib, Seaborn, Tableau
-
-View Repo
-
-Statistical Analysis
-
-Statistical-Analysis-Projects
-
-Projects covering frequentist and Bayesian methods, hypothesis testing, and statistical modeling.
-
-SciPy, Statsmodels, R, Hypothesis Testing
-
-View Repo
-
-Data Visualization
-
-Power-BI-Projects
-
-Creating interactive dashboards and reports for business intelligence and data storytelling.
-
-Power BI, DAX, Data Modeling
-
-View Repo
-
-Data Engineering
-
-Data-Engineering-Projects
-
-Pipelines covering ETL, warehouse design, big data processing, and cloud deployment.
-
-AWS, Docker, Spark, SQL, Airflow
-
-View Repo
-
-Coding Fundamentals
-
-Python-For-All
-
-Resources and exercises for mastering Python fundamentals, data structures, and object-oriented programming.
-
-Python, OOP, Data Structures
-
-View Repo
-
-🛠️ Languages and Tools
-Category
-
-Tools/Languages
-
-Programming Languages
-
-Python R SQL Bash
-
-Machine Learning
-
-Scikit-learn TensorFlow PyTorch Keras Prophet
-
-NLP/GenAI
-
-NLTK spaCy Hugging Face LangChain
-
-Data Analysis/Viz
-
-Pandas NumPy Matplotlib Seaborn Tableau Power BI
-
-Cloud/Big Data
-
-AWS Azure Spark Databricks Airflow Docker
-
-Version Control
-
-Git GitHub
-
-Profile views: 4293+
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavilandge21&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
 </div>
