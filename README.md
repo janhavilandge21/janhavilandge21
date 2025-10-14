@@ -80,14 +80,3 @@
 
 ---
 
-## ✨ GitHub Statistics
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=janhavilandge21&color=blue" alt="Profile Views" />
-  
-  <br/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=janhavilandge21&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Janhavi's GitHub Stats" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavilandge21&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
-</div>
