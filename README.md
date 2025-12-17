@@ -7,7 +7,21 @@
 
 ## **Data Scientist | ML/DL Gen AI Specialist**
 
-> Highly motivated and results-driven individual focused on leveraging **Machine Learning, Deep Learning, and Advanced AI** to solve complex business problems.
+>## 🚀 About Me
+
+B.Tech graduate in **Artificial Intelligence and Data Science** with strong hands-on experience in  
+**Machine Learning, Deep Learning, Generative AI, and Large Language Models (LLMs)**.
+
+I specialize in building **end-to-end GenAI solutions**, including:
+- Retrieval-Augmented Generation (RAG) pipelines
+- Agentic AI systems and multi-agent workflows
+- LLM-powered applications using LangChain ecosystem
+
+I have practical experience with **LLaMA, DeepSeek, Hugging Face, LangChain, LangGraph, LangSmith, FAISS**, and vector databases.  
+I enjoy transforming research-grade AI into **production-ready systems** using **Streamlit, Docker, CI/CD, and Azure**.
+
+💡 Passionate about solving **real-world business problems** using data-driven and AI-powered solutions.
+.
 
 ---
 
@@ -24,12 +38,19 @@
 ## 🛠️ My Expert Tech Stack
 
 | Category | Key Technologies |
-| --- | --- |
-| **Programming** | Python (Advanced), SQL, R (Foundational) |
-| **Machine Learning** | Scikit-learn, Regression, Classification, Time Series, MLOps |
-| **Deep Learning** | TensorFlow/Keras, Hugging Face, NLP, Computer Vision |
-| **Data & BI Tools** | Pandas, NumPy, PowerBI, Streamlit, Matplotlib, Seaborn |
-| **DevOps/MLOps** | CI/CD, Git/GitHub |
+| --- | --- 
+
+- **Languages:** Python, SQL, C  
+- **ML & AI:** Machine Learning, Deep Learning, Generative AI, LLMs, Agentic AI  
+- **LLM Frameworks:** LangChain, LangGraph, LangSmith, Hugging Face, Ollama  
+- **RAG & Search:** FAISS, ChromaDB, Vector Databases, DuckDuckGo Search  
+- **Agents & Tools:** CrewAI, smolagents, Phi, A2A, OpenRouter, yfinance  
+- **Data & Analytics:** Pandas, NumPy, Power BI, EDA, Time Series  
+- **Computer Vision:** OpenCV, OCR, Stable Diffusion, CLIP, VQGAN  
+- **Web & Apps:** Streamlit, Gradio, React  
+- **Cloud & MLOps:** Azure, Docker, CI/CD, Model Deployment  
+- **Automation:** n8n, Cursor AI
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
