@@ -29,7 +29,7 @@ I enjoy transforming research-grade AI into **production-ready systems** using *
 
 | Platform | Link |
 | --- | --- |
-| **LinkedIn** | https://www.linkedin.com/in/janhavi-landge-7a1072276/ |
+| **LinkedIn** | https://www.linkedin.com/in/janhavilandge-datascience/|
 | **GitHub** | https://github.com/janhavilandge21 |
 | **Email** | janhavilandge2@gmail.com |
 
